@@ -22,7 +22,7 @@ https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html
 
 The program output looks like this. If you want to, you can mess with the formula to get a more or less dramatic rate of error.
 ```
-iformula: a + (b * b + c)
+formula: a + (b * b + c)
 a = 1000.00
 b =   23.23
 c =   45.20
